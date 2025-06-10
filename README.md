@@ -29,7 +29,7 @@ TimeZones is a simple and lightweight Flask web application that provides an at-
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/daim02/timezones.git](https://github.com/daim02/timezones.git)
+git clone https://github.com/daim02/timezones.git
 cd timezones
 ```
 
