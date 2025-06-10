@@ -2,7 +2,7 @@
 
 TimeZones is a simple and lightweight Flask web application that provides an at-a-glance view of the current time across multiple international time zones.
 
-![App Screenshot](screenshot.png) <!-- Upload your own screenshot named screenshot.png to the repository root -->
+![App Screenshot](screenshot.jpg) 
 
 ---
 
@@ -29,8 +29,8 @@ TimeZones is a simple and lightweight Flask web application that provides an at-
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-cd your-repository-name
+git clone [https://github.com/daim02/timezones.git](https://github.com/daim02/timezones.git)
+cd timezones
 ```
 
 ### 2. Install Dependencies
