@@ -9,7 +9,7 @@ TimeZones is a simple and lightweight Flask web application that provides an at-
 ## 🚀 Features
 
 - ✅ **Your Local Time:** Displays your own local time prominently, updating every second.
-- ✅ **World Clocks:** Shows the current time for major cities across the Americas, Europe, Africa, Asia, and Oceania.
+- ✅ **World Clocks:** Shows the time for major cities across the Americas, Europe, Africa, Asia, and Oceania.
 - ✅ **Live Updates:** All clocks on the page tick in real-time.
 - ✅ **Clean Interface:** A straightforward, dark-mode design that is easy to read.
 
