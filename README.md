@@ -1,6 +1,6 @@
 # 🌍 TimeZones
 
-TimeZones is a simple and lightweight Flask web application that provides an at-a-glance view of the current time across multiple international time zones.
+TimeZones is a simple and lightweight Flask web application that provides an at-a-glance view of the current time across multiple international time zones. Hosted at: https://daim02.pythonanywhere.com/
 
 ![App Screenshot](screenshot.jpg) 
 
